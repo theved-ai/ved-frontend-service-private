@@ -37,6 +37,11 @@ export default function Sidebar() {
           <li>Manage threads and replies</li>
           <li>Search messages and mentions</li>
         </ul>
+        <strong>Google Tasks</strong>
+        <ul>
+          <li>List your task lists and tasks</li>
+          <li>Create, update, or delete tasks</li>
+        </ul>
       </div>
     </aside>
   );
